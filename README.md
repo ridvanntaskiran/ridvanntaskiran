@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am currently working on Web and Mobile Test Automation tools and want to create a complete automation library here!
+🔭 I am currently working on Web and Mobile Test Automation Tools and want to create a complete automation library here!
 
 My automation projects are:
 
