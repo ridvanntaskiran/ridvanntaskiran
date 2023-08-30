@@ -8,6 +8,10 @@ My automation projects are:
 
 ⭐ [Tech Crunch Automation Samples](https://github.com/ridvanntaskiran/TestAutomation)
 
+My API Testing Project is:
+
+⭐ [Eestful-Booker Postman Collection](https://github.com/ridvanntaskiran/restful-booker_APITests)
+
 
 📫 How to reach me: https://www.linkedin.com/in/ridvantaskiran/
 
