@@ -10,7 +10,7 @@ My automation projects are:
 
 My API Testing Project is:
 
-⭐ [Eestful-Booker Postman Collection](https://github.com/ridvanntaskiran/restful-booker_APITests)
+⭐ [Restful-Booker Postman Collection](https://github.com/ridvanntaskiran/restful-booker_APITests)
 
 
 📫 How to reach me: https://www.linkedin.com/in/ridvantaskiran/
